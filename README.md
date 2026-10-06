@@ -32,6 +32,7 @@ weather-app/
 ├── style.css
 ├── script.js
 └── README.md
-Author
-Kamalasani M
+```
+## Author
+**Kamalasani M**
 ECE Student
